@@ -1,4 +1,6 @@
-<?php include('server.php');
+<?php 
+	include('server.php');
+	include('navbar.php');
 
 	// if user not logged in, they cannot access this page
 	if (empty($_SESSION['username'])) {
@@ -24,7 +26,7 @@
 				<input type="number" name="weight" placeholder="Súly (kg)">
 			</div>
 			<div class="input-group">
-				<button type="submit" name="calculate" class="btn">Calculate</button>
+				<button type="submit" name="calculate" class="btn">Számítás</button>
 				<b style="margin-left: 20%">Az ön BMI-je: <?php echo $bmi; ?>% </b>
 			</div>
 		</form>		
