@@ -29,10 +29,19 @@
 		<br>
 		<h2>Hogyan is lehetne megelőzni a bajt?</h2>
 		<br>
-		<h3>A kulcs a táplálkozásban rejlik!</h3>
+		A Magyar Elhízástudományi Társaság - MET - öt pontból álló ajánlást fogalmazott meg az elhízás és szövődményes betegségei megelőzése érdekében. Végigolvasva ezeket, egyértelműen kiderül, hogy a megelőzés egyszerűbb, illetve nem mellékesen olcsóbb, mint a már kialakult betegség és a hozzá köthető egyéb terhek kezelése.
 		<br>
+		<br>
+			<ol>
+				<li>Étkezz változatosan, de felezd le a fő- és kisétkezések adagját! Minden étkezés tartalmazzon friss zöldségből, gyümölcsből készült ételt, és figyelj a folyadékfogyasztásra!
+				</li>
+				<li>Fokozatosan növeld a mozgásaktivitásod: ajánlott a legegyszerűbb mozgásforma, a gyaloglás, ennek napi adagja néhány percről 60 percre vagy 10 ezer lépésre növelendő.</li>
+				<li>Aludj lehetőleg hét-nyolc órát, ebből lehetőleg éjfél előtt két órát, nem túlfűtött, kiszellőztetett helyiségben, lefekvés előtt két órával pedig már ne egyél, és ne sportolj.
+				</li>
+				<li>A stresszoldást lehetőleg aktív szabadidős programokkal, sporttal, kirándulással, tánccal, kulturális tevékenységgel biztosítsd.</li>
+				<li>Életmódod legyen napi és heti ritmust követő, dohányfüstmentes, és csökkentsd az alkoholfogyasztást. Csak a legszükségesebb vegyszereket, kozmetikumokat használd a háztartásban, és csak a kezelőorvosod által előírt gyógyszereket, illetve táplálék-kiegészítőket szedd!</li>
+			</ol>
 		</p>
-
 	</div>
 
 </body>
