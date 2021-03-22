@@ -13,7 +13,7 @@
 		<label class="title">Edd magad egészségesre!</label>		
 		<ul>
 			<li><a href="index.php">Célunk</a></li>
-			<li><a href="#">Egészség a kilók tükrében</a></li>
+			<li><a href="articles.php">Egészség a kilók tükrében</a></li>
 			<li><a href="#">Kipróbálok valami új reggelit</a></li>
 			<li><a href="bmi.php">BMI kalkulátor</a></li>
 		</ul>

@@ -133,8 +133,8 @@ a:hover {
 	border-radius: 5px;
 	text-align: left;
 }
-.introduction {
-	width: 30%;
+.content {
+	width: 60%;
 	margin: 5% auto;
 	padding: 20px;
 	border: hidden;
@@ -142,7 +142,7 @@ a:hover {
 	box-shadow: 2px 2px 6px 1px #888888;
 	line-height: 30px;
 }
-.introduction ul {
+.content ul {
 	list-style-type: none;
 }
 @media (max-width: 1390px) {
