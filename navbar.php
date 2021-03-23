@@ -14,10 +14,16 @@
 		<ul>
 			<li><a href="index.php">Célunk</a></li>
 			<li><a href="articles.php">Egészség a kilók tükrében</a></li>
-			<li><a href="#">Kipróbálok valami új reggelit</a></li>
+			<li><a href="food.php">Kipróbálok valami újat</a></li>
 			<li><a href="bmi.php">BMI kalkulátor</a></li>
 		</ul>
 	</nav>
-
+	<footer>
+		<div class ="logout">		
+		<?php if (isset($_SESSION['username'])): ?>
+			<p><a href="bmi.php?logout='1'">Kijelentkezés</a></p>
+		<?php endif ?>
+	</div>
+	</footer>
 </body>
 </html>

@@ -68,7 +68,7 @@ a:hover {
 	color: #FCC14A;
 }
 .input-box {
-	width: 18%;
+	width: 22%;
 	margin: 10% auto;
 	padding: 30px 20px 20px;
 	background-color: #0A0A0A;
@@ -97,18 +97,6 @@ a:hover {
 	outline: none;
 	color: #FFFFFF;
 }
-.checkbtn {
-	font-size: 30px;
-	color: white;
-	float: right;
-	line-height: 70px;
-	margin: 0px 30px;
-	cursor: pointer;
-	display: none;
-}
-.check {
-	display: none;
-}
 .btn {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -135,12 +123,16 @@ a:hover {
 }
 .content {
 	width: 60%;
-	margin: 5% auto;
+	margin: 10% auto;
 	padding: 20px;
 	border: hidden;
 	background-color: #F5F5F5;
 	box-shadow: 2px 2px 6px 1px #888888;
 	line-height: 30px;
+}
+.pic {
+	width: 100%;
+	height: auto;
 }
 .content ul li {
 	list-style-type: none;

@@ -10,8 +10,8 @@
 <body>
 	<div class="content">
 		<div class="introduction">
-			<p>A honlap témája és célja, hogy egészségesebb táplálkozásra ösztönözze azokat, akik eddig nem sokat tettek ezért. A weboldal látogatói könnyű és egészséges reggelikhez, vacsorákhoz, valamint munkába dobozban magukkal vihető ételek receptjeihez juthatnak hozzá. Ezenfelül a regisztrált felhasználók egy kalkulátor segítségével kiszámolhatják a testtömegindexüket.<br><br>
-			A súly nemcsak esztétikai kérdés. Igen, mondhatod, hogy nem érdekel, hány kiló vagy, mekkora méretű ruhát hordasz, és milyen nehézkesen mozogsz, mert ezek mind külsőségek. Csakhogy sajnos a túlsúly az egészséged rovására mehet. Ezzel kapcsolatban az <a href="#">Egészség a kilók tükrében</a> menüpont alatt olvashatsz cikkeket, tanulmányokat szakemberektől.<br><br>
+			<p>A honlap témája és célja, hogy egészségesebb táplálkozásra ösztönözze azokat, akik eddig nem sokat tettek ezért. A weboldal látogatói könnyű és egészséges reggelikhez, vacsorákhoz, valamint munkába dobozban magukkal vihető ételek receptjeihez juthatnak hozzá. Ezenfelül <strong>a regisztrált felhasználók egy kalkulátor segítségével kiszámolhatják a testtömegindexüket</strong>.<br><br>
+			A súly nemcsak esztétikai kérdés. Igen, mondhatod, hogy nem érdekel, hány kiló vagy, mekkora méretű ruhát hordasz, és milyen nehézkesen mozogsz, mert ezek mind külsőségek. Csakhogy sajnos a túlsúly az egészséged rovására mehet. Ezzel kapcsolatban az <a href="articles.php">Egészség a kilók tükrében</a> menüpont alatt olvashatsz cikkeket, tanulmányokat szakemberektől.<br><br>
 			Egyszerű matematika: akkor tartjuk a súlyunkat, ha nem veszünk több kalóriát magunkhoz, mint amennyit elégetünk. Ebből következik, hogy ha fogyni akarunk, akkor vagy kevesebb kalóriát kell az étellel elfogyasztanunk, mint amennyit felhasználunk, vagy pedig mozgással több kalóriát „ledolgozni”, mint amennyit megeszünk. Ez utóbbihoz a mozgással, sporttal foglalkozó weboldalak nyújtanak segítséget:<br>
 				<ul>
 					<li><a href="https://www.fitvideo.hu/">Fitvideo</a></li>
@@ -21,6 +21,9 @@
 					<li><a href="http://green-fitness.hu/">Green-Fitness</a></li>
 					<img src="img/greenfitness.png">
 				</ul>
+			Mi viszont most azokhoz szólunk, akik nem tudnak vagy nem szeretnének drasztikusan változtatni a táplálkozásukon, ám elindulnának az egészséges, könnyű táplálkozás és egyben a súlyfelesleg leadásának az útján. Lehet, hogy a munkahelyi menzán esznek, ahol nem nagyon szólhatnak bele a menübe, vagy nagyobb családra főznek, így a táplálkozás új útjait másokkal is el kell fogadtatniuk, ami bonyolítja a helyzetet.
+			Mi az apró lépések taktikájával segítünk. Azt javasoljuk, hogy változtassunk először egy kisebb étkezésen, a reggelin vagy a vacsorán, vagy néha próbáljunk meg saját készítésű ebédet vinni magunkkal.
+			A <a href="#">Kipróbálok valami újat</a> menüpont alatt egészséges és könnyű reggelik/vacsorák receptjét nyújtjuk.
 			</p>
 		</div>
 	</div>

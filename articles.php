@@ -9,9 +9,8 @@
 </head>
 <body>
 	<div class="content">
-		<img src="img/elhizas.jpg" name="pic_1">
+		<img src="img/elhizas.jpg" class="pic">
 		<p>Az elhízás kapcsán gyakori az érintettek hibáztatása, az életmódbeli és étkezési szokásaik elítélése. Pedig az elhízás lehet krónikus, illetve más betegségek előjele is.
-
 		A kóros elhízás többek között a cukorbetegség melegágya is lehet. Az OECD adatai alapján az európai országok közül <strong>Magyarországot kifejezetten érinti ez a probléma: a lakosság kétharmada túlsúlyos vagy elhízott.</strong> 
 		<br>
 		<br>
@@ -22,7 +21,7 @@
 		<br>
 		</p>
 		<h2>Mit tehetünk az elhízás ellen?</h2>
-		<img src="img/what_to_do.png" name="pic_2">
+		<img src="img/what_to_do.png" class="pic">
 		<p>
 		Amennyiben valakinél már kialakult a betegség utóbbi típusa, az egészséges életmód, a rendszeres mozgás és a fogyás hozzájárulhat az életminőség javításához, valamint a betegség kordában tartásához. Sokaknál azonban nem elég az ilyen jellegű odafigyelés, így a betegek terápiás kezelésre szorulnak az optimális anyagcsere kontroll elérése érdekében. Az injekciós megoldások mellett ma már olyan innovatív készítmények is rendelkezésre állnak a cukorbetegek kezelésére, amiket akár vesebetegek is biztonságosan szedhetnek és elég naponta egyszer szájon át bevenni, nem szükséges napi szintű injekciós alkalmazás.
 		<br>

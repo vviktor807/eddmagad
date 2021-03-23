@@ -11,7 +11,6 @@
 <html>
 <head>
 	<title>BMI kalkulátor</title>
-	
 </head>
 <body>
 	<div class="input-box">
@@ -28,13 +27,12 @@
 				<button type="submit" name="calculate" class="btn">Számítás</button>
 				<b style="margin-left: 20%">Az ön BMI-je: <?php echo $bmi; ?>% </b>
 			</div>
-		</form>		
+		</form>
 	</div>
+	<div class="content">
+		<p>
+		A testtömegindex (rövidítve TTI vagy BMI, ez utóbbi az angol: body mass indexből képzett betűszó) egy statisztikai mérőszám, az egyén testmagasságának és -tömegének arányát méri. BMI kalkulátorunkkal megtudhatja, hogy elhízottnak számít-e, hány kiló az ideális testsúlya, továbbá mennyi energiát fogyaszthat naponta.</p>
 	</div>
-	<div class ="logout">		
-		<?php if (isset($_SESSION['username'])): ?>
-			<p><a href="bmi.php?logout='1'">Kijelentkezés</a></p>
-		<?php endif ?>
-	</div>
+	
 </body>
 </html>
