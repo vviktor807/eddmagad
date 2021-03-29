@@ -136,10 +136,10 @@ a:hover {
 .left-box{
 	flex: 1;
 	margin-right: 8px;
-	padding: 8px;
 	padding-left: 0px;
 }
 .right-box{
+	flex: 2;
 	margin-left: 8px;
 	padding: 8px;
 }
@@ -156,6 +156,14 @@ a:hover {
 .content ol li {
 	list-style-type: decimal;
 	list-style-position: inside;
+}
+@media (min-width: 1920px) {
+	.content {
+		font-size: 120%;
+	}
+	.sizable-pic {
+	max-width: 750px;
+	}
 }
 @media (max-width: 1390px) {
 	nav .title {

@@ -12,7 +12,7 @@
 		<h3>Reggelik</h3>
 		<div class="recepies">
 			<div class="left-box">
-				<img src="img/epres_zabszelet.jpg" class="pic">
+				<img src="img/epres_zabszelet.jpg" class="sizable-pic">
 			</div>
 			<div class="right-box">
 				<h4>Hozzávalók:</h4>
