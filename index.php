@@ -22,7 +22,7 @@
 					<img src="img/greenfitness.png">
 				</ul>
 			Mi viszont most azokhoz szólunk, akik nem tudnak vagy nem szeretnének drasztikusan változtatni a táplálkozásukon, ám elindulnának az egészséges, könnyű táplálkozás és egyben a súlyfelesleg leadásának az útján. Lehet, hogy a munkahelyi menzán esznek, ahol nem nagyon szólhatnak bele a menübe, vagy nagyobb családra főznek, így a táplálkozás új útjait másokkal is el kell fogadtatniuk, ami bonyolítja a helyzetet.
-			Mi az apró lépések taktikájával segítünk. Azt javasoljuk, hogy változtassunk először egy kisebb étkezésen, a reggelin vagy a vacsorán, vagy néha próbáljunk meg saját készítésű ebédet vinni magunkkal.
+			<strong>Mi az apró lépések taktikájával segítünk.</strong> Azt javasoljuk, hogy változtassunk először egy kisebb étkezésen, a reggelin vagy a vacsorán, vagy néha próbáljunk meg saját készítésű ebédet vinni magunkkal.
 			A <a href="#">Kipróbálok valami újat</a> menüpont alatt egészséges és könnyű reggelik/vacsorák receptjét nyújtjuk.
 			</p>
 		</div>
