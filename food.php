@@ -110,7 +110,48 @@
 		<h4>Téli gyümölcssaláta elkészítése:</h4>
 		<p>Hámozd meg a gyümölcsöket és aprítsd őket tetszőleges méretűre. A mézből és a frissen facsart citromléből készítsd el az öntetet a gyümölcsökre. Keverd össze őket és szórd meg fenyőmagokkal.
 		Elkészítési idő: 10 perc.
+		<br>
+		<br>
 		</p>
+		<h3>Vacsorák</h3>
+		<div class="recepies">
+			<div class="left-box">
+				<img src="img/zoldseges-sonkas_teszta.jpg" class="sizable-pic">
+			</div>
+			<div class="right-box">
+				<h4>Hozzávalók:</h4>
+				<ul>
+					<li>½ tk olívaolaj</li>
+					<li>½ fej felaprított vöröshagyma</li>
+					<li>cukkini</li>
+					<li>gomba</li>
+					<li>½ doboz hámozott-darabolt konzervparadicsom</li>
+					<li>50 g durumtészta</li>
+					<li>50 g felcsíkozott sovány csirkesonka</li>
+				</ul>
+			</div>
+		</div>
+		<h4>Zöldséges-sonkás tészta elkészítése:</h4>
+		<p>Dinsztelj meg ½ tk olívaolajon ½ kis fej felaprított vöröshagymát. Szórj rá felkockázott cukkinit és gombát, kis ideig pirítsd együtt, majd adj hozzá ½ doboz hámozott-darabolt konzervparadicsomot. Ízesítsd sóval, borssal, majd lefedve párold meg néhány perc alatt. Közben főzz ki 50 g durumtésztát. Keverd hozzá a paradicsomos-cukkinis szószt és 50 g felcsíkozott sovány csirkesonkát. Szórd meg friss zöldfűszerrel.</p>
+		<div class="recepies">
+			<div class="left-box">
+				<img src="img/csirkesalata.jpg" class="sizable-pic">
+			</div>
+			<div class="right-box">
+				<h4>Hozzávalók:</h4>
+				<ul>
+					<li>100 g csirkemellfilé</li>
+					<li>olívaolaj</li>
+					<li>madársaláta vagy rukkola</li>
+					<li>só, bors ízlés szerint</li>
+					<li>paradicsom</li>
+					<li>kígyóuborka</li>
+					<li>1-2 ek natúr joghurt</li>
+				</ul>
+			</div>
+		</div>
+		<h4>Csirkesaláta elkészítése:</h4>
+		<p>Moss meg és tisztíts meg 100 g csirkemellfilét, majd vágd kis, falatnyi darabokra. Sózd, borsozd meg (vagy használj csak szárnyasfűszer-keveréket), és süsd meg kevés olívaolajon. Forgasd össze madársalátával vagy rukkolával, felszeletelt paradicsommal, kígyóuborkával és 1-2 ek natúr joghurttal. A joghurtot apróra vágott zöldfűszerekkel, valamint pici sóval, borssal ízesítheted.</p>
 	</div>
 </body>
 </html>
