@@ -152,6 +152,79 @@
 		</div>
 		<h4>Csirkesaláta elkészítése:</h4>
 		<p>Moss meg és tisztíts meg 100 g csirkemellfilét, majd vágd kis, falatnyi darabokra. Sózd, borsozd meg (vagy használj csak szárnyasfűszer-keveréket), és süsd meg kevés olívaolajon. Forgasd össze madársalátával vagy rukkolával, felszeletelt paradicsommal, kígyóuborkával és 1-2 ek natúr joghurttal. A joghurtot apróra vágott zöldfűszerekkel, valamint pici sóval, borssal ízesítheted.</p>
+		<div class="recepies">
+			<div class="left-box">
+				<img src="img/gorog_salata.jpg" class="sizable-pic">
+			</div>
+			<div class="right-box">
+				<h4>Hozzávalók:</h4>
+				<ul>
+					<li>200 g koktélparadicsom</li>
+					<li>1 salátauborka</li>
+					<li>70 g fetasajt</li>
+					<li>70 g olajbogyó (Kalamata)</li>
+					<li>1/2 lilahagyma</li>
+					<li>1-2 ek extra szűz olívaolaj</li>
+					<li>1 tk borecet</li>
+					<li>1 tk borecet</li>
+					<li>őrölt bors</li>
+				</ul>
+			</div>
+		</div>
+		<h4>Görög saláta elkészítése:</h4>
+		<p>Tisztítsd meg és darabold össze a zöldségeket, hagymát és olajbogyót, majd helyezd őket egy tálba.
+		Locsold meg olívaolajjal, borecettel, szórd meg frissen őrölt fekete borssal, fetával, és keverd össze az egészet jó alaposan.
+		Tálalhatod a salátád önmagában, köretként húsételek mellé vagy teljes kiőrlésű kenyérrel.</p>
+		<div class="recepies">
+			<div class="left-box">
+				<img src="img/tonhalasgolyo.jpg" class="sizable-pic">
+			</div>
+			<div class="right-box">
+				<h4>Hozzávalók:</h4>
+				<ul>
+					<li>250 g tonhal a saját levében</li>
+					<li>20 g zab</li>
+					<li>1 tojás</li>
+					<li>só</li>
+					<li>őrölt fekete bors</li>
+					<li>fokhagyma por</li>
+				</ul>
+			</div>
+		</div>
+		<h4>Tonhalasgolyó elkészítése:</h4>
+		<p>Daráld vagy őröld a zabot finomra.
+		Egy keverőedényben keverd össze a lecsöpögtetett tonhallal, tojással, és fűszerekkel ízesítsd.
+		A tésztából formázz golyókat, majd helyezd őket egy sütőpapírral bélelt tepsibe.
+		Süsd a golyókat 180 Celsius-fokon (350 °F) 20 percig.
+		Tálald a golyókat melegen - a legjobb kapros joghurttal, vagy paradicsomszósszal.</p>
+		<div class="recepies">
+			<div class="left-box">
+				<img src="img/csokolades_palacsinta.jpg" class="sizable-pic">
+			</div>
+			<div class="right-box">
+				<h4>Hozzávalók a palacsintához:</h4>
+				<ul>
+					<li>600 ml tej</li>
+					<li>250 g finom teljes kiőrlésű tönkölyliszt</li>
+					<li>3 ek kakaópor</li>
+					<li>2 tojás</li>
+					<li>csipetnyi só</li>
+				</ul>
+			</div>
+		</div>
+		<h4>Hozzávalók a töltelékhez:</h4>
+		<p>150 g ricotta (alacsony zsírtartalmú), 200 g lágy túró (vagy alacsony zsírtartalmú krémsajt), 2 ek méz / juharszirup, 
+		2 ek kókuszreszelék, 1 tk vanília kivonat (vagy vanília rúd), 250 g fagyasztott málna
+		<br>
+		<br>
+		</p>
+		<h4>Tönköly csokoládés palacsinta elkészítése ricottával és forró málnával:</h4>
+		<p>Egy tálban keverd el a tönkölylisztet kakaóval és egy csipet sóval.
+		Add hozzá a palacsinta többi összetevőjét, és habverővel alaposan keverd össze a tésztát. Ha túl hígnak találod, adj hozzá még egy kis lisztet (az állaga a felhasznált liszttől függően változhat), és fordítva, ha túl sűrű, adj hozzá még egy kevés tejet vagy vizet.
+		A kész tésztát adagold felmelegített tapadásmentes serpenyőbe (ha szükséges, picit olajozd meg az elején), és mindkét oldalán süsd aranyszínűre a palacsintát.
+		Közben egy tálban keverd ki a töltelék összes hozzávalóját (a málna kivételével).
+		Kend meg a kapott krémmel az elkészített palacsintákat, majd hajtsd/tekerd fel és helyezd tányérra.
+		Melegítsd fel a málnát, és locsold az elkészített palacsintára.</p>
 	</div>
 </body>
 </html>

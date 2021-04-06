@@ -9,7 +9,7 @@ body {
 	font-size: 105%;
 	font-family: 'Roboto', sans-serif;
 	color: #000000;
-	background: url(img/vegetables.jpg);
+	background: url(img/white.jpg);
 	background-size: cover;
 	background-position: bottom;
 	background-repeat: repeat-y;
@@ -124,7 +124,7 @@ a:hover {
 }
 .content {
 	width: 60%;
-	margin: 10% auto;
+	margin: 8% auto;
 	padding: 15px;
 	border: hidden;
 	background-color: #F5F5F5;
@@ -168,7 +168,7 @@ a:hover {
 	list-style-type: decimal;
 	list-style-position: inside;
 }
-@media (min-width: 1920px) {
+@media (max-width: 1921px) {
 	.sizable-pic {
 		max-width: 800px;
 	}
@@ -176,20 +176,53 @@ a:hover {
 		font-size: 115%;
 		line-height: 40px;
 	}
+	.link-pic {
+		max-width: 500px;
+	}
+}
+@media (max-width: 1670px) {
+	.input-box {
+		width: 30%;
+		margin: 10% auto;
+	}
+	.content {
+		width: 60%;
+		margin: 10% auto;
+	}
+	.sizable-pic {
+		max-width: 600px;
+	}
+	.link-pic {
+		max-width: 400px;
+	}
 }
 @media (max-width: 1390px) {
 	nav .title {
 		font-size: 25px;
-	}	
+	}
+	.input-box {
+		width: 30%;
+		margin: 10% auto;
+	}
+	.content {
+		width: 70%;
+		margin: 10% auto;
+	}
+	.sizable-pic {
+		max-width: 500px;
+	}
+	.link-pic {
+		max-width: 400px;
+	}
 }
-@media (max-width: 1202px) {
+@media (max-width: 1324px) {
 	.input-box {
 		width: 30%;
 		margin: 30% auto;
 	}
 	.content {
-		width: 30%;
-		margin: 30% auto;	
+		width: 70%;
+		margin: 30% auto;
 	}
 	nav ul {
 		position: fixed;
@@ -208,10 +241,116 @@ a:hover {
 		color: #F2E86D;
 		transition: 0s;
 	}
+	.sizable-pic {
+		max-width: 500px;
+	}
+	.link-pic {
+		max-width: 300px;
+	}
 }
-@media (max-width: 320px) {
+@media (max-width: 1025px) {
+	nav .title {
+		font-size: 25px;
+	}
+	.input-box {
+		width: 30%;
+		margin: 40% auto;
+	}
 	.content {
-		width: 40%;
+		width: 60%;
+		margin: 40% auto;
+	}
+	body.form-body {
+		background-size: cover;
+		background: url(img/vegetables1.jpg);
+		background-repeat: repeat-y;
+		background-position: center;
+	}
+	.sizable-pic {
+		max-width: 350px;
+	}
+	.link-pic {
+		max-width: 300px;
+	}
+	nav a:hover {
+		background: none;
+		color: #F2E86D;
+		transition: 0s;
+	}
+}
+@media (max-width: 769px) {
+	nav .title {
+		font-size: 22px;
+	}
+	.input-box {
+		width: 30%;
+		margin: 50% auto;
+	}
+	.content {
+		width: 60%;
+		margin: 40% auto;
+	}
+	body.form-body {
+		background-size: cover;
+		background: url(img/vegetables1.jpg);
+		background-repeat: repeat-y;
+		background-position: center;
+	}
+	.sizable-pic {
+		max-width: 230px;
+	}
+	.link-pic {
+		max-width: 250px;
+	}
+	nav a:hover {
+		background: none;
+		color: #F2E86D;
+		transition: 0s;
+	}
+}
+@media (max-width: 426px) {
+	nav .title {
+		font-size: 18px;
+	}
+	.input-box {
+		width: 50%;
+		margin: 70% auto;
+	}
+	.content {
+		width: 60%;
+		margin: 90% auto;
+	}
+	body.form-body {
+		background-size: cover;
+		background: url(img/vegetables1.jpg);
+		background-repeat: repeat-y;
+		background-position: center;
+	}
+	.sizable-pic {
+		max-width: 220px;
+	}
+	.link-pic {
+		max-width: 200px;
+	}
+	.recepies {
+		flex-direction: column;
+	}
+	nav a:hover {
+		background: none;
+		color: #F2E86D;
+		transition: 0s;
+	}
+}
+@media (max-width: 376px) {
+	nav .title {
+		font-size: 18px;
+	}
+	.input-box {
+		width: 50%;
+		margin: 80% auto;
+	}
+	.content {
+		width: 80%;
 		margin: 100% auto;
 	}
 	body.form-body {
@@ -219,5 +358,52 @@ a:hover {
 		background: url(img/vegetables1.jpg);
 		background-repeat: repeat-y;
 		background-position: center;
+	}
+	.sizable-pic {
+		max-width: 200px;
+	}
+	.link-pic {
+		max-width: 180px;
+	}
+	.recepies {
+		flex-direction: column;
+	}
+	nav a:hover {
+		background: none;
+		color: #F2E86D;
+		transition: 0s;
+	}
+}
+@media (max-width: 321px) {
+	nav .title {
+		font-size: 18px;
+	}
+	.content {
+		width: 60%;
+		margin: 100% auto;
+	}
+	.input-box {
+		width: 65%;
+		margin: 90% auto;
+	}
+	body.form-body {
+		background-size: cover;
+		background: url(img/vegetables1.jpg);
+		background-repeat: repeat-y;
+		background-position: center;
+	}
+	.sizable-pic {
+		max-width: 150px;
+	}
+	.link-pic {
+		max-width: 170px;
+	}
+	.recepies {
+		flex-direction: column;
+	}
+	nav a:hover {
+		background: none;
+		color: #F2E86D;
+		transition: 0s;
 	}
 }
