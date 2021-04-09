@@ -8,7 +8,6 @@
 	<title>Bejelentkezés</title>
 </head>
 <body class="form-body">
-
 	<div class="input-box">
 		<img src="img/signin.png" class="logo">
 		<form method="post" action="login.php">

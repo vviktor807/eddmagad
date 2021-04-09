@@ -226,5 +226,10 @@
 		Kend meg a kapott krémmel az elkészített palacsintákat, majd hajtsd/tekerd fel és helyezd tányérra.
 		Melegítsd fel a málnát, és locsold az elkészített palacsintára.</p>
 	</div>
+	<div class ="logout">		
+		<?php if (isset($_SESSION['username'])): ?>
+			<p><a href="bmi.php?logout='1'">Kijelentkezés</a></p>
+		<?php endif ?>
+	</div>
 </body>
 </html>

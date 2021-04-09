@@ -222,8 +222,16 @@ a:hover {
 	}
 	.content {
 		width: 70%;
-		margin: 30% auto;
+		margin: 10% auto;
 	}
+	.sizable-pic {
+		max-width: 500px;
+	}
+	.link-pic {
+		max-width: 300px;
+	}
+}
+@media (max-width: 1138px) {
 	nav ul {
 		position: fixed;
 		width: 100%;
@@ -240,17 +248,6 @@ a:hover {
 		background: none;
 		color: #F2E86D;
 		transition: 0s;
-	}
-	.sizable-pic {
-		max-width: 500px;
-	}
-	.link-pic {
-		max-width: 300px;
-	}
-}
-@media (max-width: 1025px) {
-	nav .title {
-		font-size: 25px;
 	}
 	.input-box {
 		width: 30%;
@@ -278,7 +275,7 @@ a:hover {
 		transition: 0s;
 	}
 }
-@media (max-width: 769px) {
+@media (max-width: 965px) {
 	nav .title {
 		font-size: 22px;
 	}
@@ -290,41 +287,72 @@ a:hover {
 		width: 60%;
 		margin: 40% auto;
 	}
-	body.form-body {
-		background-size: cover;
-		background: url(img/vegetables1.jpg);
-		background-repeat: repeat-y;
-		background-position: center;
-	}
 	.sizable-pic {
-		max-width: 230px;
+		max-width: 500px;
 	}
 	.link-pic {
-		max-width: 250px;
+		max-width: 550px;
 	}
-	nav a:hover {
-		background: none;
-		color: #F2E86D;
-		transition: 0s;
+	.recepies {
+		flex-direction: column;
 	}
 }
-@media (max-width: 426px) {
-	nav .title {
-		font-size: 18px;
+@media (max-width: 875px) {
+	.input-box {
+		width: 30%;
+		margin: 50% auto;
 	}
+	.content {
+		width: 60%;
+		margin: 40% auto;
+	}
+	.sizable-pic {
+		max-width: 350px;
+	}
+	.link-pic {
+		max-width: 300px;
+	}
+}
+@media (max-width: 730px) {
+	.input-box {
+		width: 30%;
+		margin: 60% auto;
+	}
+	.content {
+		width: 60%;
+		margin: 50% auto;
+	}
+	.sizable-pic {
+		max-width: 350px;
+	}
+	.link-pic {
+		max-width: 300px;
+	}
+}
+@media (max-width: 625px) {
+	.input-box {
+		width: 30%;
+		margin: 70% auto;
+	}
+	.content {
+		width: 60%;
+		margin: 60% auto;
+	}
+	.sizable-pic {
+		max-width: 260px;
+	}
+	.link-pic {
+		max-width: 240px;
+	}
+}
+@media (max-width: 475px) {
 	.input-box {
 		width: 50%;
 		margin: 70% auto;
 	}
 	.content {
 		width: 60%;
-		margin: 90% auto;
-	}
-	body.form-body {
-		background-size: cover;
-		background: url(img/vegetables1.jpg);
-		background-repeat: repeat-y;
-		background-position: center;
+		margin: 70% auto;
 	}
 	.sizable-pic {
 		max-width: 220px;
@@ -332,32 +360,15 @@ a:hover {
 	.link-pic {
 		max-width: 200px;
 	}
-	.recepies {
-		flex-direction: column;
-	}
-	nav a:hover {
-		background: none;
-		color: #F2E86D;
-		transition: 0s;
-	}
 }
-@media (max-width: 376px) {
-	nav .title {
-		font-size: 18px;
-	}
+@media (max-width: 400px) {
 	.input-box {
 		width: 50%;
-		margin: 80% auto;
+		margin: 90% auto;
 	}
 	.content {
 		width: 80%;
 		margin: 100% auto;
-	}
-	body.form-body {
-		background-size: cover;
-		background: url(img/vegetables1.jpg);
-		background-repeat: repeat-y;
-		background-position: center;
 	}
 	.sizable-pic {
 		max-width: 200px;
@@ -365,45 +376,20 @@ a:hover {
 	.link-pic {
 		max-width: 180px;
 	}
-	.recepies {
-		flex-direction: column;
-	}
-	nav a:hover {
-		background: none;
-		color: #F2E86D;
-		transition: 0s;
-	}
 }
 @media (max-width: 321px) {
-	nav .title {
-		font-size: 18px;
-	}
-	.content {
-		width: 60%;
-		margin: 100% auto;
-	}
 	.input-box {
 		width: 65%;
 		margin: 90% auto;
 	}
-	body.form-body {
-		background-size: cover;
-		background: url(img/vegetables1.jpg);
-		background-repeat: repeat-y;
-		background-position: center;
+	.content {
+		width: 65%;
+		margin: 100% auto;
 	}
 	.sizable-pic {
 		max-width: 150px;
 	}
 	.link-pic {
 		max-width: 170px;
-	}
-	.recepies {
-		flex-direction: column;
-	}
-	nav a:hover {
-		background: none;
-		color: #F2E86D;
-		transition: 0s;
 	}
 }

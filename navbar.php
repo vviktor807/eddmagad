@@ -18,12 +18,5 @@
 			<li><a href="bmi.php">BMI kalkulátor</a></li>
 		</ul>
 	</nav>
-	<footer>
-		<div class ="logout">		
-		<?php if (isset($_SESSION['username'])): ?>
-			<p><a href="bmi.php?logout='1'">Kijelentkezés</a></p>
-		<?php endif ?>
-	</div>
-	</footer>
 </body>
 </html>

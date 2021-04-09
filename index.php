@@ -27,5 +27,10 @@
 			</p>
 		</div>
 	</div>
+	<div class ="logout">		
+		<?php if (isset($_SESSION['username'])): ?>
+			<p><a href="bmi.php?logout='1'">Kijelentkezés</a></p>
+		<?php endif ?>
+	</div>
 </body>
 </html>
